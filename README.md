@@ -39,4 +39,9 @@ Add additional notes about how to deploy this on a live system
 ## License 
  
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details 
+
+## Sources
+
+* **K-Means Clustering** - [Link](https://en.wikipedia.org/wiki/K-means_clustering)
+* **LLoyd's Algorithm** - [Link](https://en.wikipedia.org/wiki/Lloyd%27s_algorithm) 
  
