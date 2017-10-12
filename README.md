@@ -24,10 +24,6 @@ Rightclick [Source Files/Header Files] > Add existing item > Put in .cpp and .h 
  
 TO BE ADDED, CURRENT VERSION DOES NOT OUTPUT ANY DATA 
  
-## Deployment 
- 
-Add additional notes about how to deploy this on a live system 
- 
 ## Built With 
  
 * [Visual Studio Community 2017](https://www.visualstudio.com/) - Development Environment 
