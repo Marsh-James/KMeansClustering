@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
  
 ### Installing 
  
-A step by step series of examples that tell you have to get a development env running 
+A step by step series of examples that tell you have to get a development environment running 
  
 Since there are no dependencies, the code can be simply run by just loading the project files inside your project. Please note this project is currently being developed using a console, therefore future branches might include unwanted functions. 
  
