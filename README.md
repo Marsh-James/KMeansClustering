@@ -1,6 +1,6 @@
 
 # KMeansClustering 
-A C++ implementation of the 'K Means Clustering' algorithm, developed in Visual Studio Community 2017. The code is used to demonstrate the simplicity of the K means (LLoyd's Algorithm).
+A C++ implementation of the 'K Means Clustering' algorithm, developed in Visual Studio Community 2017. The code is used to demonstrate the simplicity of the K means (LLoyd's Algorithm). Please take note that this project is still being built and therefore might lack some functionality.
  
 ## Getting Started 
  
