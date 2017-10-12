@@ -32,10 +32,6 @@ Add additional notes about how to deploy this on a live system
  
 * [Visual Studio Community 2017](https://www.visualstudio.com/) - Development Environment 
  
-## Authors 
- 
-* **James Marsh** - *Initial work* - [Marsh-James](https://github.com/Marsh-James) 
- 
 ## License 
  
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details 
